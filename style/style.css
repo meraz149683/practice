@@ -1,4 +1,4 @@
-nav > li {
+/* nav > li {
     display: inline;
     margin: 10px;
     text-align: center;
@@ -10,9 +10,17 @@ nav li > a {
     text-align: left;
     margin: none;
 } */
- .just{
+ /* .just{
     text-align: end;
  }
  footer{
     text-align: center;
+ } */ 
+
+ td,th{
+    border:1px solid black ;
+    padding: 10px;
  }
+table{
+    border-collapse: collapse;
+}
