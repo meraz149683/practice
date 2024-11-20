@@ -1,0 +1,18 @@
+nav > li {
+    display: inline;
+    margin: 10px;
+    text-align: center;
+}
+nav li > a {
+    text-decoration: none;
+}
+/* article > figure > video{
+    text-align: left;
+    margin: none;
+} */
+ .just{
+    text-align: end;
+ }
+ footer{
+    text-align: center;
+ }
